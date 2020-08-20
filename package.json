@@ -35,7 +35,7 @@
     "dotenv": "^8.0.0",
     "migrate": "^1.6.2",
     "migrate-mongo": "^6.0.0",
-    "mongoose": "^5.5.11",
+    "mongoose": "^5.7.5",
     "mongoose-migrate-2": "^0.2.5",
     "mongoose-seed": "^0.6.0",
     "nest-access-control": "^2.0.1",
